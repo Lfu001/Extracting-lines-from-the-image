@@ -1,4 +1,4 @@
-# Extracting-lines-from-the-image
+# Extracting lines from the image
 This project uses Hough Transform to extract lines.
 
 <br>
