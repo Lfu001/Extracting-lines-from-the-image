@@ -14,7 +14,7 @@ First, we get the edges of this image using `getEdge(original, converted, paddin
 |:--|
 Figure 2
 
-Next, we binarize this image using `binarize(size_x, original, converted, threshold)`. In this example, we set `threshold` to 120. The result is shown in Figure 3.
+Next, we binarize this image using `binarize(size_x, original, converted, threshold)`. In this example, we set `threshold` to 109. The result is shown in Figure 3.
 |![binary_Hough-example](https://user-images.githubusercontent.com/82690385/125889450-8376b0e9-b1b5-4165-848c-915a786918fd.png)|
 |:--|
 Figure 3
